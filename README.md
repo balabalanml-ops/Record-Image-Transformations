@@ -82,7 +82,7 @@ import matplotlib.pyplot as plt
 ```
 
 ```
-image = cv2.imread('sai1.jpeg')
+image = cv2.imread('bala.jpeg')
 ```
 
 ```
